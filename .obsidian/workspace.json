@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "b272498e51b86333",
+    "type": "split",
+    "children": [
+      {
+        "id": "4957b6ca02c2b087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9088610eb7b7cf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-Research/How does clang work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee5b944877c33f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-Research/Clang plugin boilerplate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71bbaa7925cd0933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paperwork/Project Description and Abstract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c74b8eac4aaa607",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab6b947c8dccfe76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ffec6d9d2e45424",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a713cb43517bdf09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c50e96192502bd58",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bb0c1b8b318063d",
+    "type": "split",
+    "children": [
+      {
+        "id": "980403e577f0baf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "363ca2870ee3b95d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Paperwork/Project Description and Abstract.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d23f22a699625736",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Paperwork/Project Description and Abstract.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79968c3eab1642e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "334c15ad3141fe91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Paperwork/Project Description and Abstract.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4ffec6d9d2e45424",
+  "lastOpenFiles": [
+    "Self-Research/Clang plugin boilerplate.md",
+    "Self-Research/How does clang work.md",
+    "Self-Research/Clang Boilerplate.md"
+  ]
+}
